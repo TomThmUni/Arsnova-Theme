@@ -72,6 +72,10 @@
                 "inject": false,
                 "input": "src/styles/themes/theme-Material.scss",
                 "bundleName": "theme-default"
+              }, {
+                "inject": false,
+                "input": "src/styles/themes/theme-weber.scss",
+                "bundleName": "theme-weber-__CSS_FILE_HASH__"
               }
             ],
             "scripts": [
@@ -130,6 +134,10 @@
                   "inject": false,
                   "input": "src/styles/themes/theme-Material.scss",
                   "bundleName": "theme-default"
+                }, {
+                  "inject": false,
+                  "input": "src/styles/themes/theme-weber.scss",
+                  "bundleName": "theme-weber-__CSS_FILE_HASH__"
                 }
               ]
             },
@@ -182,6 +190,10 @@
                   "inject": false,
                   "input": "src/styles/themes/theme-Material.scss",
                   "bundleName": "theme-default"
+                }, {
+                  "inject": false,
+                  "input": "src/styles/themes/theme-weber.scss",
+                  "bundleName": "theme-weber-__CSS_FILE_HASH__"
                 }
               ]
             },

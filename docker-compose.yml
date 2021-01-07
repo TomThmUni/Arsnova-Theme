@@ -10,7 +10,7 @@ services:
       args:
         buildCmd: "PROD"
         targetUrl: "https://arsnova.click"
-        themes: "[\"Material\",\"blackbeauty\"]"
+        themes: "[\"Material\",\"blackbeauty\", \"weber\"]"
         PUPPETEER_SKIP_CHROMIUM_DOWNLOAD: "true"
         CHROMIUM_PATH: "/usr/bin/chromium-browser"
         CHROME_BIN: "/usr/bin/chromium-browser"
