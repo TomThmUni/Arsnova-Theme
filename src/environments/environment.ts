@@ -1,6 +1,6 @@
-import { LoginMechanism, Title } from '../app/lib/enums/enums';
-import { QuizTheme } from '../app/lib/enums/QuizTheme';
-import { IEnvironment } from '../app/lib/interfaces/IEnvironment';
+import {LoginMechanism, Title} from '../app/lib/enums/enums';
+import {QuizTheme} from '../app/lib/enums/QuizTheme';
+import {IEnvironment} from '../app/lib/interfaces/IEnvironment';
 
 export const environment: IEnvironment = {
   production: true,
@@ -32,6 +32,7 @@ export const environment: IEnvironment = {
   availableQuizThemes: [
     QuizTheme.Material,
     QuizTheme.Blackbeauty,
+    QuizTheme.Weber
   ],
   defaultTheme: QuizTheme.Material,
   darkModeCheckEnabled: true,

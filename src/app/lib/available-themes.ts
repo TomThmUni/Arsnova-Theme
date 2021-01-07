@@ -17,5 +17,10 @@ export const themes: Array<ITheme> = [
     preview: 'component.theme_switcher.themes.westermann-blue.preview',
     description: 'component.theme_switcher.themes.westermann-blue.description',
     id: QuizTheme.WestermannBlue,
-  },
+  }, {
+    name: 'component.theme_switcher.themes.weber.name',
+    preview: 'component.theme_switcher.themes.weber.preview',
+    description: 'component.theme_switcher.themes.weber.description',
+    id: QuizTheme.Weber,
+  }
 ];

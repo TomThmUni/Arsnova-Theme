@@ -258,5 +258,30 @@
       "fg": "#000000",
       "bg": "#B2DFDB"
     }
+  },  "weber": {
+  "quizNameRowStyle": {
+    "fg": "#FFFFFF",
+    "bg": "#408743"
+  },
+  "exportedAtRowStyle": {
+    "fg": "#FFFFFF",
+    "bg": "#EFF4FA"
+  },
+  "statisticsRowStyle": {
+    "fg": "#000000",
+    "bg": "#B2DFDB"
+  },
+  "attendeeHeaderGroupRowStyle": {
+    "fg": "#FFFFFF",
+    "bg": "#009688"
+  },
+  "attendeeHeaderRowStyle": {
+    "fg": "#000000",
+    "bg": "#FF9800"
+  },
+  "attendeeEntryRowStyle": {
+    "fg": "#000000",
+    "bg": "#B2DFDB"
   }
+}
 }

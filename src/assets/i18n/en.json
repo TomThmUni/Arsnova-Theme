@@ -557,6 +557,9 @@
         "westermann-blue": {
           "name": "Westermann Blue",
           "description": "Default of the Westermann group"
+        }, "weber": {
+          "name": "weber",
+          "description": "Mein Theme"
         }
       }
     },
